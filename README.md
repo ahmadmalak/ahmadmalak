@@ -2,12 +2,17 @@
 
 **AI Engineer | Full-Stack Mobile Developer** — based in Chicago, IL 🇺🇸
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmad-malak-am)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ahmadmalak1997@gmail.com)
+[![Website](https://img.shields.io/badge/storageai.io-0A0A0A?style=flat&logo=googlechrome&logoColor=white)](https://storageai.io)
+![Open to work](https://img.shields.io/badge/Open_to-Software%20%2F%20AI%20Engineer%20roles-2ea44f?style=flat)
+
 Software engineer with 5+ years building production mobile and AI applications. I ship apps that real people use (1M+ combined downloads on the App Store and Google Play) and build LLM-powered systems — RAG pipelines, AI agents, and the backends that hold them up. Currently founder & AI engineer at **Storage AI**.
 
 - 🔭 Building **[Storage AI](https://storageai.io)** — an AI-powered inventory platform (RAG + autonomous Claude agents)
 - 🧠 Day-to-day in **Flutter/Dart**, **Python/FastAPI**, **LangChain**, and the **Claude & OpenAI** APIs
 - 🌎 Authorized to work in the U.S. — no sponsorship required
-- 📫 [LinkedIn](https://linkedin.com/in/ahmad-malak-am) · ahmadmalak1997@gmail.com
+- 🌱 Open to **Software Engineer / AI Engineer** roles (remote or Chicago)
 
 ---
 
